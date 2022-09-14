@@ -7,7 +7,7 @@ saying about them.
 
 Contributers:
 Jamison Proctor
-Ling Yee 
+Ling Yee Khor
 Michael Flury
 Avinash Chekuru
 
