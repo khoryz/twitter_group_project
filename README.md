@@ -1,8 +1,8 @@
 # Analysis of Tweets about iPhone14 and iPhone14Pro
 
 ![Presentation slide](reports/img/presentpic.png)
-<img src="reports/img/presentpic.png" width="450" height="300">
-<img src="reports/img/heatmap.png" width="450" height="300">
+<img src="reports/img/presentpic.png" width="400" height="300">
+<img src="reports/img/heatmap.png" width="400" height="300">
 ![Correlation heatmap of tweets and tweeters](reports/img/heatmap.png)
 
 #### -- Project Status: [Completed]
