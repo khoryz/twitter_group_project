@@ -1,8 +1,6 @@
 # Analysis of Tweets about iPhone14 and iPhone14Pro
 
-![Presentation slide](reports/img/presentpic.png)
-<img alt="ALT test" title="ALT Test" src="reports/img/presentpic.png" width="450" hspace="50"> <img src="reports/img/heatmap.png" width="450">
-![Correlation heatmap of tweets and tweeters](reports/img/heatmap.png)
+<img alt="Presentation slide" title="Presentation slide" src="reports/img/presentpic.png" width="450" hspace="50"> <img alt="Correlation heatmap of tweets and tweeters" title="Correlation heatmap of tweets and tweeters" src="reports/img/heatmap.png" width="450">
 
 #### -- Project Status: [Completed]
 
