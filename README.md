@@ -5,7 +5,7 @@
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The prpose of this group project is to use the Twitter API to build a database, then use the database to reveal the information included within. 
+The purpose of this group project is to use the Twitter API to build a database, then use the database to reveal the information included within. 
 
 ### Team Members
 * Avinash Chekuru
